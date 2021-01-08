@@ -25,7 +25,7 @@ class mysql_database {
 }
 ```
 
- **2 - On agent node**
+ **2 - On agent node**  
  Will run command ---> *sudo puppet agent -t* <br />
  then, check the maridb status ---> *sudo systemctl status maridb* <br />
  if running login to mysql ---> *mysql -u user_name -p*
