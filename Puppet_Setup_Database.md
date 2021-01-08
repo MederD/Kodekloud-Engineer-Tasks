@@ -1,5 +1,6 @@
 **1 - On Jump Host will create file with given name.**
     
+```
 node 'stdb01.stratos.xfusioncorp.com' {
 include mysql_database
 }
@@ -22,8 +23,9 @@ class mysql_database {
     grant => ['ALL'],
     }
 }
+```
 
-**2 - on agent node**
-     sudo puppet agent -t
- then, check the maridb status ---> sudo systemctl status maridb
- if running login to mysql ---> mysql -u user_name -p
+ **2 - On agent node**
+ Will run command ---> *sudo puppet agent -t*
+ then, check the maridb status ---> *sudo systemctl status maridb*
+ if running login to mysql ---> *mysql -u user_name -p*
