@@ -1,0 +1,28 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: ingress-service-xfusion
+  namespace: haproxy-controller-xfusion
+  labels:
+    run: haproxy-ingress
+spec:
+  type: NodePort
+  selector:
+    run: haproxy-ingress
+  ports:
+    - name: http
+      protocol: TCP
+      port: 80
+      targetPort: 80
+      nodePort: 32456
+    - name: https
+      protocol: TCP
+      port: 443
+      targetPort: 443
+      nodePort: 32567
+    - name: stat
+      protocol: TCP
+      port: 1024
+      targetPort: 1024
+      nodePort: 32678
+    
