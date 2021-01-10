@@ -74,7 +74,7 @@ spec:
         image: gcr.io/google_containers/defaultbackend:1.0
         ports:
         - containerPort: 8080
-        ```
+```
 6. Create a service for backend which should be named as service-backend-xfusion under the same namespace, labels run should be ingress-default-backend. Configure spec as selector's run should be ingress-default-backend, port should be named as port-backend, protocol should be TCP, port should be 8080 and targetPort should be 8080.
 ```
 apiVersion: v1
@@ -92,7 +92,7 @@ spec:
       protocol: TCP
       port: 8080
       targetPort: 8080
-      ```
+```
 7. Create a deployment for frontend which should be named haproxy-ingress-xfusion under the same namespace. Configure spec as replica should be 1, selector's matchLabels should be haproxy-ingress, template's labels run should be haproxy-ingress under metadata. The container name should be ingress-container-xfusion under the same service account haproxy-service-account-xfusion, use image haproxytech/kubernetes-ingress, give args as --default-backend-service=haproxy-controller-xfusion/service-backend-xfusion, resources requests for cpu should be 500m and for memory should be 50Mi, livenessProbe httpGet path should be /healthz its port should be 1024. The first port name should be http and its containerPort should be 80, second port name should be https and its containerPort should be 443 and third port name should be stat its containerPort should be 1024. Define environment as first env name should be TZ its value should be Etc/UTC, second env name should be POD_NAME its valueFrom fieldRef fieldPath should be metadata.name and third env name should be POD_NAMESPACE its valueFrom fieldRef fieldPath should be metadata.namespace.
 ```
 apiVersion: apps/v1
