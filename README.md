@@ -8,3 +8,5 @@
 [Puppet String Manipulation](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Puppet_String_Manipulation.md)    
 [Print Environment Variables](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Print_Environment_Variables.md)   
 [Install Puppet Agent](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Install_Puppet_Agent.md) 
+[Rolling Updates in Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Rolling_Updates_in_Kubernetes.md)  
+
