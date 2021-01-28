@@ -10,4 +10,5 @@
 [Install Puppet Agent](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Install_Puppet_Agent.md)   
 [Rolling Updates in Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Rolling_Updates_in_Kubernetes.md)   
 [Node Affinity in Kubernetes Cluster](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Node_Affinity_in_Kubernetes_Cluster.md)    
+[Create Namespaces in Kubernetes Cluster](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Create_Namespaces_in_Kubernetes_Cluster.md)  
 
