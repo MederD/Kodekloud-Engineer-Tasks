@@ -13,5 +13,6 @@
 [Create Namespaces in Kubernetes Cluster](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Create_Namespaces_in_Kubernetes_Cluster.md)  
 [Managing ACLs Using Ansible](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Managing_ACLs_Using_Ansible.md)   
 [Setup Puppet Certs Autosign](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Setup_Puppet_Certs_Autosign.md)   
-[Ansible Ping Module Usage](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Ansible_Ping_Module_Usage.md)
+[Ansible Ping Module Usage](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Ansible_Ping_Module_Usage.md)   
+[Creating Soft Links Using Ansible](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Creating_Soft_Links_Using_Ansible.md)
 
