@@ -15,5 +15,6 @@
 [Setup Puppet Certs Autosign](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Setup_Puppet_Certs_Autosign.md)   
 [Ansible Ping Module Usage](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Ansible_Ping_Module_Usage.md)   
 [Creating Soft Links Using Ansible](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Creating_Soft_Links_Using_Ansible.md)   
-[Resolve Docker Compose Issues](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Resolve_Docker_Compose_Issues.md)
+[Resolve Docker Compose Issues](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Resolve_Docker_Compose_Issues.md)   
+[Kubernetes Sidecar Containers](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Kubernetes_Sidecar_Containers.md)
 
