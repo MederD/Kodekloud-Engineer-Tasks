@@ -19,5 +19,6 @@
 [Kubernetes Sidecar Containers](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Kubernetes_Sidecar_Containers.md)   
 [Ansible Inventory Update](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Ansible_Inventory_Update.md)   
 [Create Pods in Kubernetes Cluster](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Create_Pods_in_Kubernetes_Cluster.md)   
-[Troubleshoot Issue With Pods](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Troubleshoot_Issue_With_Pods.md)
+[Troubleshoot Issue With Pods](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Troubleshoot_Issue_With_Pods.md)   
+[Puppet Install a Package](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Puppet_Install_a_Package.md)
 
