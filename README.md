@@ -23,5 +23,6 @@
 [Puppet Install a Package](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Puppet_Install_a_Package.md)   
 [Kubernetes Shared Volumes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Kubernetes_Shared_Volumes.md)   
 [Install Ansible](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Install_Ansible.md)    
-[Run a Docker Container](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Run_a_Docker_Container.md)
+[Run a Docker Container](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Run_a_Docker_Container.md)  
+[Create a Docker Image From Container](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Create_a_Docker_Image_From_Container.md)
 
