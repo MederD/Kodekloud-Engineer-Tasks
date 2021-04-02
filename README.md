@@ -26,5 +26,6 @@
 [Run a Docker Container](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Run_a_Docker_Container.md)  
 [Create a Docker Image From Container](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Create_a_Docker_Image_From_Container.md)   
 [Puppet Setup Firewall Rules](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Puppet_Setup_Firewall_Rules.md)  
-[Ansible Blockinfile Module](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Ansible_Blockinfile_Module.md)
+[Ansible Blockinfile Module](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Ansible_Blockinfile_Module.md)  
+[Deploy Nginx and Phpfpm on Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Deploy_Nginx_and_Phpfpm_on_Kubernetes.md)
 
