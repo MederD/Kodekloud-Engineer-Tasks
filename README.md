@@ -29,6 +29,7 @@
 [Ansible Blockinfile Module](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Ansible_Blockinfile_Module.md)  
 [Deploy Nginx and Phpfpm on Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Deploy_Nginx_and_Phpfpm_on_Kubernetes.md)  
 [Install Puppet Server](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Install_Puppet_Server.md)  
-[Persistent Volumes in Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Persistent_Volumes_in_Kubernetes.md)  
+[Persistent Volumes in Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Persistent_Volumes_in_Kubernetes.md)   
+[Deploy Tomcat App on Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Deploy_Tomcat_App_on_Kubernetes.md)
 
 
