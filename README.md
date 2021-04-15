@@ -32,7 +32,9 @@
 [Persistent Volumes in Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Persistent_Volumes_in_Kubernetes.md)   
 [Deploy Tomcat App on Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Deploy_Tomcat_App_on_Kubernetes.md)  
 [Deploy Voting App on Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Deploy_Voting_App_on_Kubernetes.md)    
-[Write a Docker Compose File](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Write_a_Docker_Compose_File.md)  
+[Write a Docker Compose File](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Write_a_Docker_Compose_File.md)    
+[Deploy Nagios on Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Deploy_Nagios_on_Kubernetes.md)   
+
  
 
 
