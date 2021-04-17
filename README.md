@@ -34,6 +34,8 @@
 [Deploy Voting App on Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Deploy_Voting_App_on_Kubernetes.md)    
 [Write a Docker Compose File](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Write_a_Docker_Compose_File.md)    
 [Deploy Nagios on Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Deploy_Nagios_on_Kubernetes.md)   
+[Deploy Jekyll App on Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Deploy_Jekyll_App_on_Kubernetes.md)   
+
 
  
 
