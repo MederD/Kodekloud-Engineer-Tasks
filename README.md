@@ -36,7 +36,8 @@
 [Deploy Nagios on Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Deploy_Nagios_on_Kubernetes.md)   
 [Deploy Jekyll App on Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Deploy_Jekyll_App_on_Kubernetes.md)    
 [Deploy Apache Web Server on Kubernetes Cluster](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Deploy_Apache_Web_Server_on_Kubernetes_Cluster.md)  
-[Rollback a Deployment in Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Rollback_a_Deployment_in_Kubernetes.md)   
+[Rollback a Deployment in Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Rollback_a_Deployment_in_Kubernetes.md)     
+[Deploy Nginx Web Server on Kubernetes Cluster](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Deploy_Nginx_Web_Server_on_Kubernetes_Cluster.md)  
 
 
 [up](#tasks) 
