@@ -13,9 +13,9 @@ include user
 }
 
 class user {
-   user { 'ravi':
+   user { 'siva':
       ensure => present,
-      uid => '1200'
+      uid => '1203'
    }
 }
 
