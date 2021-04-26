@@ -1,4 +1,4 @@
-[:arrow_down:](#___)
+[:arrow_down:](#end)
 
 ### Tasks:  
 [Puppet Setup Database](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Puppet_Setup_Database.md)  
@@ -44,7 +44,7 @@
 [Puppet Setup NTP Server](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Puppet_Setup_NTP_Server.md)   
 
 
-###___   
+### End     
 [:arrow_up:](#tasks) 
 
 
