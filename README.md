@@ -44,7 +44,7 @@
 [Puppet Setup NTP Server](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Puppet_Setup_NTP_Server.md)   
 
 
-###___
+###___   
 [:arrow_up:](#tasks) 
 
 
