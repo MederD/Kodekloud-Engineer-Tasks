@@ -39,6 +39,7 @@
 [Rollback a Deployment in Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Rollback_a_Deployment_in_Kubernetes.md)     
 [Deploy Nginx Web Server on Kubernetes Cluster](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Deploy_Nginx_Web_Server_on_Kubernetes_Cluster.md)  
 [Puppet Add Users](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Puppet_Add_Users.md)    
+[Puppet Setup NTP Server](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Puppet_Setup_NTP_Server.md)   
 
 
 [up](#tasks) 
