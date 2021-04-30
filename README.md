@@ -42,7 +42,8 @@
 [Deploy Nginx Web Server on Kubernetes Cluster](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Deploy_Nginx_Web_Server_on_Kubernetes_Cluster.md)  
 [Puppet Add Users](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Puppet_Add_Users.md)    
 [Puppet Setup NTP Server](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Puppet_Setup_NTP_Server.md)   
-[Git Install and Create Repository](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Install_and_Create_Repository.md)  
+[Git Install and Create Repository](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Install_and_Create_Repository.md)    
+[Git Setup from Scratch](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Setup_from_Scratch.md)   
 
 
 
@@ -51,6 +52,4 @@
 
 
  
-
-
 
