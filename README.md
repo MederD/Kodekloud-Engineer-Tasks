@@ -50,6 +50,7 @@
 [Resolve Dockerfile Issues](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Resolve_Dockerfile_Issues.md)  
 [Ansible Unarchive Module](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Ansible_Unarchive_Module.md)   
 [Ansible Replace Module](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Ansible_Replace_Module.md)   
+[Deploy MySQL on Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Deploy_MySQL_on_Kubernetes.md)    
 
 
 ###### End     

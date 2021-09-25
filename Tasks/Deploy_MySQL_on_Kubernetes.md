@@ -143,5 +143,6 @@ spec:
     nodePort: 30007
   selector:
     app: mysql
+```
 
 [back](https://github.com/MederD/Kodekloud-Engineer-Tasks)  
