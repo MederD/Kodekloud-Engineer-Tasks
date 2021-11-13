@@ -58,6 +58,7 @@
 [Deploy Grafana on Kubernetes Cluster](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Deploy_Grafana_on_Kubernetes_Cluster.md)  
 [Deploy Guest Book App on Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Deploy_Guest_Book_App_on_Kubernetes.md)   
 [Managing Jinja2 Templates Using Ansible](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Managing_Jinja2_Templates_Using_Ansible.md)  
+[Deploy Jenkins on Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Deploy_Jenkins_on_Kubernetes.md)   
 
 
 
