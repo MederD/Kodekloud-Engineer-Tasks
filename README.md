@@ -61,6 +61,7 @@
 [Deploy Jenkins on Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Deploy_Jenkins_on_Kubernetes.md)   
 [Ansible Config File Update](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Ansible_Config_File_Update.md)   
 [Ansible Facts Gathering](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Ansible_Facts_Gathering.md)  
+[Fix issue with PhpFpm Application Deployed on Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Fix_issue_with_PhpFpm_Application_Deployed_on_Kubernetes.md) 
 
 
 
