@@ -66,7 +66,7 @@
 [Ansible File Module](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Ansible_File_Module.md)  
 [Puppet Setup SSH Keys](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Puppet_Setup_SSH_Keys.md)  
 [Git Install and Create Bare Repository](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Install_and_Create_Bare_Repository.md)   
-[Resolve Git Merge Conflicts](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Resolve_Git_Merge_Conflicts.md) 
+[Resolve Git Merge Conflicts](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Resolve_Git_Merge_Conflicts.md)    
 [Ansible Lineinfile Module](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Ansible_Lineinfile_Module.md) 
 
 
