@@ -69,6 +69,7 @@
 [Resolve Git Merge Conflicts](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Resolve_Git_Merge_Conflicts.md)    
 [Ansible Lineinfile Module](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Ansible_Lineinfile_Module.md)    
 [Kubernetes Redis Deployment](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Kubernetes_Redis_Deployment.md)   
+[Docker EXEC Operations](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Docker_EXEC_Operations.md)   
 
 
 
