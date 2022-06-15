@@ -70,6 +70,7 @@
 [Ansible Lineinfile Module](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Ansible_Lineinfile_Module.md)    
 [Kubernetes Redis Deployment](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Kubernetes_Redis_Deployment.md)   
 [Docker EXEC Operations](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Docker_EXEC_Operations.md)   
+[ReplicationController in Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/ReplicationController_in_Kubernetes.md)   
 
 
 
