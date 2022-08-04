@@ -73,7 +73,7 @@
 [ReplicationController in Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/ReplicationController_in_Kubernetes.md)   
 [Rolling Updates And Rolling Back Deployments in Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Rolling_Updates_And_Rolling_Back_Deployments_in_Kubernetes.md)   
 [Git Repository Update](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Repository_Update.md)   
-
+[Docker Copy Operations](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Docker_Copy_Operations.md)     
 
 
 
