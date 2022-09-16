@@ -76,7 +76,7 @@
 [Docker Copy Operations](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Docker_Copy_Operations.md)     
 [Git Merge Branches](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/GIt_Merge_Branches.md)  
 [Docker Volumes Mapping](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Docker_Volumes_Mapping.md)  
-
+[Ansible Basic Playbook](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Ansible_Basic_Playbook.md)  
 
 
 ###### End     
