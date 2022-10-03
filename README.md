@@ -77,7 +77,7 @@
 [Git Merge Branches](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/GIt_Merge_Branches.md)  
 [Docker Volumes Mapping](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Docker_Volumes_Mapping.md)  
 [Ansible Basic Playbook](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Ansible_Basic_Playbook.md)  
-
+[Manage Secrets in Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Manage_Secrets_in_Kubernetes.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
