@@ -26,7 +26,7 @@ Solution:
         path: "/opt/itadmin/blog.txt"
         entity: tony
         etype: group
-        permission: r
+        permissions: r
         state: present
         
 - hosts: stapp02
@@ -42,7 +42,7 @@ Solution:
         path: "/opt/itadmin/story.txt"
         entity: steve
         etype: user
-        permission: rw
+        permissions: rw
         state: present
         
 - hosts: stapp03
@@ -58,7 +58,7 @@ Solution:
         path: "/opt/itadmin/media.txt"
         entity: banner
         etype: group
-        permission: rw
+        permissions: rw
         state: present
 ```
 
