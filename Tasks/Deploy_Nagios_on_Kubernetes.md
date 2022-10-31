@@ -69,7 +69,7 @@ kubectl exec -it <pod-name> --/bin/bash
 
 Find the /nagios/etc/htpasswd.users file and run this command:    
 ```
-htpasswd /nagios/etc/htpasswd.users xFusionCorp
+htpasswd /opt/nagios/etc/htpasswd.users xFusionCorp
 ```
 You will be prompted to enter new password, which is: LQfKeWWxWD   
 
