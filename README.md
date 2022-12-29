@@ -79,7 +79,9 @@
 [Ansible Basic Playbook](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Ansible_Basic_Playbook.md)  
 [Manage Secrets in Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Manage_Secrets_in_Kubernetes.md)  
 [Git Clone Repositories](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Clone_Repositories.md)  
-[Fix Issue with VolumeMounts in Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Fix_Issue_with_VolumeMounts_in_Kubernetes.md)
+[Fix Issue with VolumeMounts in Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Fix_Issue_with_VolumeMounts_in_Kubernetes.md)   
+[Docker Ports Mapping](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Docker_Ports_Mapping.md) 
+
 
 ###### End     
 [:arrow_up:](#tasks) 
