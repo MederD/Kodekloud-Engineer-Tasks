@@ -83,8 +83,8 @@
 [Docker Ports Mapping](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Docker_Ports_Mapping.md)   
 [Troubleshoot Deployment issues in Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Troubleshoot_Deployment_issues_in_Kubernetes.md)   
 [Init Containers in Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Init_Containers_in_Kubernetes.md)  
-[Using Ansible Conditionals](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Using_Ansible_Conditionals.md)
-
+[Using Ansible Conditionals](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Using_Ansible_Conditionals.md)  
+[Cron schedule deny to users](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Cron_schedule_deny_to_users.md)  
 
 ###### End     
 [:arrow_up:](#tasks) 
