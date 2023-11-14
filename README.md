@@ -87,7 +87,8 @@
 [Cron schedule deny to users](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Cron_schedule_deny_to_users.md)  
 [Linux Run Levels](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Linux_Run_Levels.md)  
 [Linux Time Zones Setting](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Linux_Time_Zones_Setting.md)  
-[Linux NTP Setup](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Linux_NTP_Setup.md)
+[Linux NTP Setup](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Linux_NTP_Setup.md)   
+[Linux Firewalld Rules](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Linux_Firewalld_Rules.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
