@@ -90,6 +90,7 @@
 [Linux NTP Setup](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Linux_NTP_Setup.md)   
 [Linux Firewalld Rules](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Linux_Firewalld_Rules.md)  
 [Linux Resource Limits](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Linux_Resource_Limits.md)  
+[Selinux Installation](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Selinux_Installation.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
