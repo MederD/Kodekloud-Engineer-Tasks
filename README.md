@@ -95,7 +95,8 @@
 [LINUX - Create a Cron Job](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Create_a-Cron_Job.md)  
 [LINUX - Linux Banner](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_Banner.md)  
 [Resolve Pod Deployment Issue](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Resolve_Pod_Deployment_Issue.md)    
-[LINUX - Linux Collaborative Directories](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_Collaborative_Directories.md)
+[LINUX - Linux Collaborative Directories](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_Collaborative_Directories.md)  
+[LINUX - Linux String Substitute (sed)](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_String_Substitute.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
