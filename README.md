@@ -98,7 +98,8 @@
 [LINUX - Linux Collaborative Directories](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_Collaborative_Directories.md)  
 [LINUX - Linux String Substitute (sed)](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_String_Substitute.md)  
 [Kubernetes Level 1 test](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Kubetenetes_Level_1_test.md)  
-[LINUX - Linux SSH Authentication](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_SSH_Authentication.md)
+[LINUX - Linux SSH Authentication](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_SSH_Authentication.md)  
+[LINUX - Linux Find Command](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_Find_Command.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
