@@ -99,7 +99,8 @@
 [LINUX - Linux String Substitute (sed)](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_String_Substitute.md)  
 [Kubernetes Level 1 test](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Kubetenetes_Level_1_test.md)  
 [LINUX - Linux SSH Authentication](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_SSH_Authentication.md)  
-[LINUX - Linux Find Command](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_Find_Command.md)
+[LINUX - Linux Find Command](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_Find_Command.md)  
+[LINUX - Install a package](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Install_a_package.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
