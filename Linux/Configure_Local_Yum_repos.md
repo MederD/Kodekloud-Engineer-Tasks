@@ -17,7 +17,7 @@ then, add below to the localyum.repo:
 ```txt
 [localyum]
 name=localyum
-baseurl=file:////packages/downloaded_rpms/
+baseurl=file:///packages/downloaded_rpms/
 gpgcheck=0
 enabled=1
 ```
