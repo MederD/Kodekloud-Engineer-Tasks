@@ -107,7 +107,8 @@
 [LINUX - Configure Local Yum](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Configure_Local_Yum_repos.md)  
 [LINUX - Linux Services](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_Services.md)  
 [LINUX - Linux Configure sudo](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_Configure_sudo.md)  
-[LINUX - DNS Troubleshooting](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/DNS_Troubleshooting.md)
+[LINUX - DNS Troubleshooting](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/DNS_Troubleshooting.md)  
+[LINUX - Linux Firewalld Setup](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_Firewalld_Setup.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
