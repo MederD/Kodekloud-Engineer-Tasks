@@ -20,7 +20,7 @@ mydomain = stratos.xfusioncorp.com
 myorigin = $mydomain
 inet_interfaces = all
 mydestination = $myhostname, localhost.$mydomain, localhost, $mydomain
-mynetworks = 172.16.238.17, 127.0.0.0/8
+mynetworks = 172.16.238.0/24, 127.0.0.0/8
 home_mailbox = Maildir/
 # inet_interfaces = localhost
 ```
