@@ -98,7 +98,7 @@ telnet stmail01 110
 Connected to stmail01.
 Escape character is '^]'.
 +OK Dovecot ready.
-user james
+user kirsty
 +OK
 pass ksH85UJjhb
 +OK Logged in.
