@@ -109,7 +109,8 @@
 [LINUX - Linux Configure sudo](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_Configure_sudo.md)  
 [LINUX - DNS Troubleshooting](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/DNS_Troubleshooting.md)  
 [LINUX - Linux Firewalld Setup](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_Firewalld_Setup.md)  
-[LINUX - Linux Postfix Mail Server](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_Postfix_Mail_Server.md)
+[LINUX - Linux Postfix Mail Server](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_Postfix_Mail_Server.md)  
+[LINUX - Linux Postfix Troubleshooting](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_Postfix_Troubleshooting.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
