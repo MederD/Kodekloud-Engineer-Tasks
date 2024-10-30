@@ -113,7 +113,8 @@
 [LINUX - Linux Postfix Troubleshooting](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_Postfix_Troubleshooting.md)  
 [LINUX - Install and Configure HaProxy LBR](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Install_and_Configure_HaProxy_LBR.md)  
 [LINUX - Haproxy LBR Troubleshooting](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Haproxy_LBR_Troubleshooting.md)  
-[LINUX - Maria DB Troubleshooting](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Maria_DB_Troubleshooting.md)
+[LINUX - Maria DB Troubleshooting](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Maria_DB_Troubleshooting.md)  
+[LINUX - Linux Bash Scripts](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_Bash_Scripts.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
