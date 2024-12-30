@@ -116,7 +116,8 @@
 [LINUX - Maria DB Troubleshooting](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Maria_DB_Troubleshooting.md)  
 [LINUX - Linux Bash Scripts](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_Bash_Scripts.md)  
 [LINUX - Add Response Headers in Apache](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Add_Response_Headers_in_Apache.md)  
-[LINUX - Apache Troubleshooting](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Apache_Troubleshooting.md)
+[LINUX - Apache Troubleshooting](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Apache_Troubleshooting.md)  
+[LINUX - Linux GPG Encryption](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_GPG_Encryption.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
