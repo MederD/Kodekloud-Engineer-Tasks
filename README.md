@@ -120,6 +120,7 @@
 [LINUX - Linux GPG Encryption](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_GPG_Encryption.md)  
 [LINUX - Linux Log Rotate](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_Log_Rotate.md)  
 [KUBERNETES - Fix issue with LAMP Environment in Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Fix_issue_with_LAMP_Environment_in_Kubernetes.md)  
+[LINUX - Apache Redirects](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Apache_Redirects.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
