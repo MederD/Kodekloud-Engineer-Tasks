@@ -7,6 +7,7 @@ c. SFTP user should only be allowed to make SFTP connections.
 Solution:  
 ```
 ssh steve@stapp02
+sudo su
 useradd -g ftp -d /ftp -s /sbin/nologin siva
 echo 'siva:8FmzjvFU6S' | chpasswd
 mkdir -p /ftp/siva/files
@@ -29,7 +30,7 @@ exit back to jumphost and check:
 ```
 sftp siva@stapp02
 siva@stapp02's password: 
-Connected to stapp01.
+Connected to stapp02.
 sftp>
 ```
 [back](https://github.com/MederD/Kodekloud-Engineer-Tasks)
