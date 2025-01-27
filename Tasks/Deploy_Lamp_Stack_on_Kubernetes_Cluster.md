@@ -172,7 +172,7 @@ if ($result->connect_error) {
 ```
 4. Get the right pod name, in my case it is `lamp-wp-556dfb9b4c-x5tg4`:
 ```
-kubectl cp /tmp lamp-wp-556dfb9b4c-x5tg4:/app -c httpd-php-container
+kubectl cp /tmp/index.php lamp-wp-556dfb9b4c-x5tg4:/app -c httpd-php-container
 ```
 5. Check if website is working. It should return "Connected successfully".
 
