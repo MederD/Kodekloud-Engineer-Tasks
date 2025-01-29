@@ -122,7 +122,8 @@
 [KUBERNETES - Fix issue with LAMP Environment in Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Fix_issue_with_LAMP_Environment_in_Kubernetes.md)  
 [LINUX - Apache Redirects](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Apache_Redirects.md)  
 [LINUX - Install And Configure SFTP](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Install_And_Configure_SFTP.md)  
-[KUBERNETES - Deploy Lamp Stack on Kubernetes Cluster](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Deploy_Lamp_Stack_on_Kubernetes_Cluster.md)
+[KUBERNETES - Deploy Lamp Stack on Kubernetes Cluster](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Deploy_Lamp_Stack_on_Kubernetes_Cluster.md)  
+[LINUX - Install and Configure Tomcat Server](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Install_and_Configure_Tomcat_Server.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
