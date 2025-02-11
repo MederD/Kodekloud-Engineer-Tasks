@@ -126,7 +126,8 @@
 [LINUX - Install and Configure Tomcat Server](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Install_and_Configure_Tomcat_Server.md)  
 [LINUX - Linux Network Services](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_Network_Services.md)  
 [LINUX - IPtables Installation And Configuration](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/IPtables_Installation_And_Configuration.md)  
-[KUBERNETES - Kubernetes LEMP Setup](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Kubernetes_LEMP_Setup.md)
+[KUBERNETES - Kubernetes LEMP Setup](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Kubernetes_LEMP_Setup.md)  
+[KUBERNETES - Kubernetes Troubleshooting](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Kubernetes_Troubleshooting.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
