@@ -128,7 +128,8 @@
 [LINUX - IPtables Installation And Configuration](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/IPtables_Installation_And_Configuration.md)  
 [KUBERNETES - Kubernetes LEMP Setup](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Kubernetes_LEMP_Setup.md)  
 [KUBERNETES - Kubernetes Troubleshooting](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Kubernetes_Troubleshooting.md)  
-[KUBERNETES - Deploy Iron Gallery App on Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Deploy_Iron_Gallery_App_on_Kubernetes.md)
+[KUBERNETES - Deploy Iron Gallery App on Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Deploy_Iron_Gallery_App_on_Kubernetes.md)  
+[KUBERNETES - Fix Python App Deployed on Kubernetes Cluster](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Fix_Python_App_Deployed_on_Kubernetes_Cluster.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
