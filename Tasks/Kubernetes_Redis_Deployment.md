@@ -59,8 +59,8 @@ spec:
           ports:
           - containerPort: 6379
           resources:
-          requests:
-            cpu: "1"
+            requests:
+              cpu: "1"
           volumeMounts:
           - name: my-redis-config
             mountPath: /redis-master
