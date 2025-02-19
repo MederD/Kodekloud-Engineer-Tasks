@@ -131,7 +131,8 @@
 [KUBERNETES - Deploy Iron Gallery App on Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Deploy_Iron_Gallery_App_on_Kubernetes.md)  
 [KUBERNETES - Fix Python App Deployed on Kubernetes Cluster](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Fix_Python_App_Deployed_on_Kubernetes_Cluster.md)  
 [KUBERNETES - Deploy Drupal App on Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Deploy_Drupal_App_on_Kubernetes.md)  
-[LINUX - Linux Nginx as Reverse Proxy](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_Nginx_as_Reverse_Proxy.md)
+[LINUX - Linux Nginx as Reverse Proxy](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_Nginx_as_Reverse_Proxy.md)  
+[LINUX - Configure protected directories in Apache](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Configure_protected_directories_in_Apache.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
