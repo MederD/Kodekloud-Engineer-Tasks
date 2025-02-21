@@ -133,7 +133,8 @@
 [KUBERNETES - Deploy Drupal App on Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Deploy_Drupal_App_on_Kubernetes.md)  
 [LINUX - Linux Nginx as Reverse Proxy](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_Nginx_as_Reverse_Proxy.md)  
 [LINUX - Configure protected directories in Apache](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Configure_protected_directories_in_Apache.md)  
-[LINUX - Linux Process Troubleshooting](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_Process_Troubleshooting.md)
+[LINUX - Linux Process Troubleshooting](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_Process_Troubleshooting.md)  
+[LINUX - PAM Authentication For Apache](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/PAM_Authentication_For_Apache.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
