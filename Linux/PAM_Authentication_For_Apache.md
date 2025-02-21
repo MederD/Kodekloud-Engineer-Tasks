@@ -18,14 +18,16 @@ LoadModule authnz_pam_module modules/mod_authnz_pam.so
 ```
 vi /etc/httpd/conf.d/authnz_pam.conf
 ```
-add to the end
-<Directory "/var/www/html/protected">
-    AuthType Basic
-    AuthName "PAM Authentication"
-    AuthBasicProvider PAM
-    AuthPAMService httpd-auth
-    Require valid-user
-</Directory>
+add to the end  
+```
+<Directory "/var/www/html/protected">  
+    AuthType Basic  
+    AuthName "PAM Authentication"  
+    AuthBasicProvider PAM  
+    AuthPAMService httpd-auth  
+    Require valid-user  
+</Directory>  
+```
 ```
 vi /etc/pam.d/httpd-auth
 ```
