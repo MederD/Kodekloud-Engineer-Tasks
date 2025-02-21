@@ -32,10 +32,11 @@ add to the end
 vi /etc/pam.d/httpd-auth
 ```
 create new
-
+```
 auth       required     pam_listfile.so item=user sense=deny file=/etc/httpd/conf.d/denyusers onerr=succeed
 auth       include      system-auth
 account    include      system-auth
+```
 
 ```
 chgrp apache /etc/shadow
