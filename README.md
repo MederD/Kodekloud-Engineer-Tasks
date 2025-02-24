@@ -134,7 +134,8 @@
 [LINUX - Linux Nginx as Reverse Proxy](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_Nginx_as_Reverse_Proxy.md)  
 [LINUX - Configure protected directories in Apache](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Configure_protected_directories_in_Apache.md)  
 [LINUX - Linux Process Troubleshooting](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_Process_Troubleshooting.md)  
-[LINUX - PAM Authentication For Apache](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/PAM_Authentication_For_Apache.md)
+[LINUX - PAM Authentication For Apache](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/PAM_Authentication_For_Apache.md)  
+[LINUX - Setup SSL for Nginx](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Setup_SSL_for_Nginx.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
