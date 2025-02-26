@@ -136,7 +136,8 @@
 [LINUX - Linux Process Troubleshooting](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_Process_Troubleshooting.md)  
 [LINUX - PAM Authentication For Apache](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/PAM_Authentication_For_Apache.md)  
 [LINUX - Setup SSL for Nginx](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Setup_SSL_for_Nginx.md)  
-[DOCKER - Install Docker Packages and Start Docker Service](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Install_Docker_Packages_and_Start_Docker_Service.md)
+[DOCKER - Install Docker Packages and Start Docker Service](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Install_Docker_Packages_and_Start_Docker_Service.md)  
+[DOCKER - Deploy Nginx Container on Application Server](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Deploy_Nginx_Container_on_Application_Server.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
