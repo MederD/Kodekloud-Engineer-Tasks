@@ -138,7 +138,8 @@
 [LINUX - Setup SSL for Nginx](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Setup_SSL_for_Nginx.md)  
 [DOCKER - Install Docker Packages and Start Docker Service](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Install_Docker_Packages_and_Start_Docker_Service.md)  
 [DOCKER - Deploy Nginx Container on Application Server](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Deploy_Nginx_Container_on_Application_Server.md)  
-[DOCKER - Copy File to Docker Container](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Copy_File_to_Docker_Container.md)
+[DOCKER - Copy File to Docker Container](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Copy_File_to_Docker_Container.md)   
+[LINUX - Install and Configure Postgre SQL](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Install_and_Configure_Postgre_SQL.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
