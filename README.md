@@ -141,7 +141,8 @@
 [DOCKER - Copy File to Docker Container](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Copy_File_to_Docker_Container.md)   
 [LINUX - Install and Configure Postgre SQL](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Install_and_Configure_Postgre_SQL.md)  
 [LINUX - Bash scripts if/else statements](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Bash_scripts_if_else_statemetns.md)  
-[DOCKER - Docker Level 1 test](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Docker_Level_1_test.md)
+[DOCKER - Docker Level 1 test](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Docker_Level_1_test.md)  
+[LINUX - Configure LAMP server](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Configure_LAMP_server.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
