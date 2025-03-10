@@ -143,7 +143,8 @@
 [LINUX - Bash scripts if/else statements](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Bash_scripts_if_else_statemetns.md)  
 [DOCKER - Docker Level 1 test](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Docker_Level_1_test.md)  
 [LINUX - Configure LAMP server](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Configure_LAMP_server.md)  
-[LINUX - Install and Configure DB Server](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Install_and_Configure_DB_Server.md)
+[LINUX - Install and Configure DB Server](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Install_and_Configure_DB_Server.md)  
+[LINUX - Install and Configure Web Application](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Install_and_Configure_Web_Application.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
