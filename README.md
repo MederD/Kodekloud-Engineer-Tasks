@@ -145,7 +145,8 @@
 [LINUX - Configure LAMP server](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Configure_LAMP_server.md)  
 [LINUX - Install and Configure DB Server](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Install_and_Configure_DB_Server.md)  
 [LINUX - Install and Configure Web Application](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Install_and_Configure_Web_Application.md)  
-[LINUX - Install and Configure PHP-FPM](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Install_and_Configure_PHPFPM.md)
+[LINUX - Install and Configure PHP-FPM](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Install_and_Configure_PHPFPM.md)  
+[LINUX - Configure Nginx + PHP-FPM Using Unix Sock](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Configure_Nginx-PHPFPM-Using-Unix-Sock.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
