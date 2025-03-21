@@ -150,7 +150,8 @@
 [DOCKER - Docker Update Permissions](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Docker_Update_Permissions.md)  
 [DOCKER - Create a Docker Image From Container](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Create_a_Docker_Image_From_Container.md)  
 [DOCKER - Docker EXEC Operations](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Docker_EXEC_Operations.md)  
-[DOCKER - Write a Docker File](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Write_a_Docker_File.md)
+[DOCKER - Write a Docker File](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Write_a_Docker_File.md)  
+[DOCKER - Create a Docker Network](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Create_a_Docker_Network.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
