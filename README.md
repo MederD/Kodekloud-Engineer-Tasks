@@ -152,7 +152,8 @@
 [DOCKER - Docker EXEC Operations](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Docker_EXEC_Operations.md)  
 [DOCKER - Write a Docker File](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Write_a_Docker_File.md)  
 [DOCKER - Create a Docker Network](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Create_a_Docker_Network.md)  
-[DOCKER - Docker Volumes Mapping](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Docker_Volumes_Mapping.md)
+[DOCKER - Docker Volumes Mapping](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Docker_Volumes_Mapping.md)   
+[DOCKER - Docker Ports Mapping](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Docker_Ports_Mapping.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
