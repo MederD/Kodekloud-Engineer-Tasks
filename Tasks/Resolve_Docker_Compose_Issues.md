@@ -13,14 +13,18 @@ docker-compose.yml file should be as below:
 ```
 version: "2.2"
 services:
-  web:
-    build: .
-    ports:
-      - "5000:5000"
-    volumes:
-      - .:/code
-  redis:
-    image: "redis"
+    web:
+        build: ./app
+        container_name: python
+        ports:
+            - "5000:5000"
+        volumes:
+            - ./app:/code
+        depends_on:
+            - redis
+    redis:
+        image: redis
+        container_name: redis
 ```
 
 run below command:  
