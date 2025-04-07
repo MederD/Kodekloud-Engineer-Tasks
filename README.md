@@ -157,7 +157,8 @@
 [DOCKER - Save, Load and Transfer Docker Image](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Save_Load_and_Transfer_Docker_Image.md)  
 [DOCKER - Deploy an App on Docker Containers](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Deploy_an_App_on_Docker_Containers.md)  
 [DOCKER - Docker Node App](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Docker_Node_App.md)  
-[DOCKER - Docker Python App](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Docker_Python_App.md)
+[DOCKER - Docker Python App](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Docker_Python_App.md)   
+[GIT - Delete Git Branch](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Delete_Git_Branch.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
