@@ -162,7 +162,8 @@
 [GIT - Git Level 1 test](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Level_1_test.md)  
 [GIT - Git Create Branches](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Create_Branches.md)  
 [GIT - Git Manage Remotes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Manage_Remotes.md)  
-[GIT - Git Revert Some Changes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Revert_Some_Changes.md)
+[GIT - Git Revert Some Changes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Revert_Some_Changes.md)  
+[GIT - Git Cherry Pick](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Cherry_Pick.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
