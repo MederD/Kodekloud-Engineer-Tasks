@@ -164,7 +164,8 @@
 [GIT - Git Manage Remotes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Manage_Remotes.md)  
 [GIT - Git Revert Some Changes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Revert_Some_Changes.md)  
 [GIT - Git Cherry Pick](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Cherry_Pick.md)  
-[GIT - Git hard reset](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_hard_reset.md)
+[GIT - Git hard reset](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_hard_reset.md)  
+[GIT - Git Clean](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Clean.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
