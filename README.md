@@ -166,7 +166,8 @@
 [GIT - Git Cherry Pick](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Cherry_Pick.md)  
 [GIT - Git hard reset](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_hard_reset.md)  
 [GIT - Git Clean](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Clean.md)  
-[GIT - Git Stash](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Stash.md)
+[GIT - Git Stash](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Stash.md)  
+[GIT - Git Rebase](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Rebase.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
