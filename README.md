@@ -167,7 +167,8 @@
 [GIT - Git hard reset](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_hard_reset.md)  
 [GIT - Git Clean](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Clean.md)  
 [GIT - Git Stash](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Stash.md)  
-[GIT - Git Rebase](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Rebase.md)
+[GIT - Git Rebase](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Rebase.md)  
+[GIT - Manage Git Repositories](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Manage_Git_Repositories.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
