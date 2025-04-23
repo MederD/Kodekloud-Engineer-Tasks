@@ -8,19 +8,17 @@ Note: For these kind of scenarios requiring changes to be done in a web UI, plea
 
 Solution:  
 
-1. ssh to storage server:  
 ```
 ssh max@ststor01
-```
-
-2. pull the repo:  
-```
-git pull origin master
-```
-
-3. fix the typo and the differences.  
-4. push back to branch  
-```
+cd /story_blog
+git push origin
+git status
+git pull origin
+git status
+sed -i 's/Mooose/Mouse/g' /home/max/story_blog/story-index.txt
+sed -i '/^<<<<<<< HEAD/d; /^=======/q' /home/max/story-blog/story-index.txt
+git add .
+git commit -m "Resolve conflicts"
 git push origin master
 ```
 
