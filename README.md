@@ -170,7 +170,8 @@
 [GIT - Git Rebase](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Rebase.md)  
 [GIT - Manage Git Repositories](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Manage_Git_Repositories.md)  
 [GIT - Git Hook](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Hook.md)  
-[JENKINS - Set Up Jenkins Server](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Jenkins/Set_Up_Jenkins_Server.md)
+[JENKINS - Set Up Jenkins Server](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Jenkins/Set_Up_Jenkins_Server.md)  
+[JENKINS - Organize Jenkins Jobs with Folders](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Jenkins/Organize_Jenkins_Jobs_with_Folders.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
