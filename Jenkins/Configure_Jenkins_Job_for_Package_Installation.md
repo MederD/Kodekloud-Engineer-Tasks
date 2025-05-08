@@ -25,6 +25,6 @@ ssh -A natasha@ststor01 "sudo yum install -y ${PACKAGE}"
 Test build with any package, example "nginx".
 Or you can use [SSH plugin](https://plugins.jenkins.io/ssh-agent/).
 
-[back](https://github.com/MederD/Kodekloud-Engineer-Task)
+[back](https://github.com/MederD/Kodekloud-Engineer-Tasks/tree/main)
 
 
