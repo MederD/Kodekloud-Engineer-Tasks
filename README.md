@@ -172,7 +172,8 @@
 [GIT - Git Hook](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Hook.md)  
 [JENKINS - Set Up Jenkins Server](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Jenkins/Set_Up_Jenkins_Server.md)  
 [JENKINS - Organize Jenkins Jobs with Folders](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Jenkins/Organize_Jenkins_Jobs_with_Folders.md)  
-[JENKINS - Configure Jenkins Job for Package Installation](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Jenkins/Configure_Jenkins_Job_for_Package_Installation.md)
+[JENKINS - Configure Jenkins Job for Package Installation](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Jenkins/Configure_Jenkins_Job_for_Package_Installation.md)  
+[TERRAFORM - Create Key Pair Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_Key_Pair_Using_Terraform.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
