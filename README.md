@@ -176,7 +176,8 @@
 [TERRAFORM - Create Key Pair Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_Key_Pair_Using_Terraform.md)  
 [TERRAFORM - Create Security Group Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_Security_Group_Using_Terraform.md)  
 [TERRAFORM - Create VPC Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_VPC_Using_Terraform.md)  
-[TERRAFORM - Create VPC with IPv6 Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_VPC_with_IPv6_Using_Terraform.md)
+[TERRAFORM - Create VPC with IPv6 Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_VPC_with_IPv6_Using_Terraform.md)  
+[TERRAFORM - Create Elastic IP Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_Elastic_IP_Using_Terraform.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
