@@ -180,7 +180,8 @@
 [TERRAFORM - Create Elastic IP Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_Elastic_IP_Using_Terraform.md)  
 [TERRAFORM - Create EC2 Instance Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_EC2_Instance_Using_Terraform.md)  
 [TERRAFORM - Create AMI Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_AMI_Using_Terraform.md)  
-[TERRAFORM - Create EBS Volume Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_EBS_Volume_Using_Terraform.md)
+[TERRAFORM - Create EBS Volume Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_EBS_Volume_Using_Terraform.md)  
+[TERRAFORM - Create Snapshot Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_Snapshot_Using_Terraform.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
