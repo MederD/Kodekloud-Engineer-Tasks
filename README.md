@@ -183,7 +183,8 @@
 [TERRAFORM - Create EBS Volume Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_EBS_Volume_Using_Terraform.md)  
 [TERRAFORM - Create Snapshot Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_Snapshot_Using_Terraform.md)  
 [TERRAFORM - Create Alarm Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_Alarm_Using_Terraform.md)  
-[TERRAFORM - Create Public S3 Bucket Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_Public_S3_Bucket_Using_Terraform.md)
+[TERRAFORM - Create Public S3 Bucket Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_Public_S3_Bucket_Using_Terraform.md)  
+[TERRAFORM - Create Private S3 Bucket Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_Private_S3_Bucket_Using_Terraform.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
