@@ -185,7 +185,8 @@
 [TERRAFORM - Create Alarm Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_Alarm_Using_Terraform.md)  
 [TERRAFORM - Create Public S3 Bucket Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_Public_S3_Bucket_Using_Terraform.md)  
 [TERRAFORM - Create Private S3 Bucket Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_Private_S3_Bucket_Using_Terraform.md)  
-[TERRAFORM - Create IAM User Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_IAM_User_Using_Terraform.md)
+[TERRAFORM - Create IAM User Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_IAM_User_Using_Terraform.md)  
+[TERRAFORM - Create IAM Group Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_IAM_Group_Using_Terraform.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
