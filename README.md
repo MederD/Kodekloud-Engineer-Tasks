@@ -188,7 +188,8 @@
 [TERRAFORM - Create IAM User Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_IAM_User_Using_Terraform.md)  
 [TERRAFORM - Create IAM Group Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_IAM_Group_Using_Terraform.md)  
 [TERRAFORM - Create IAM Policy Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_IAM_Policy_Using_Terraform.md)  
-[TERRAFORM - Create Dynamo DB Table Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_Dynamo_DB_Table_Using_Terraform.md)
+[TERRAFORM - Create Dynamo DB Table Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_Dynamo_DB_Table_Using_Terraform.md)  
+[TERRAFORM - Create Kinesis Stream Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_Kinesis_Stream_Using_Terraform.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
