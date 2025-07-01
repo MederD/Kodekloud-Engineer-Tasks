@@ -191,7 +191,8 @@
 [TERRAFORM - Create Dynamo DB Table Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_Dynamo_DB_Table_Using_Terraform.md)  
 [TERRAFORM - Create Kinesis Stream Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_Kinesis_Stream_Using_Terraform.md)  
 [TERRAFORM - Create SNS Topic Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_SNS_Topic_Using_Terraform.md)  
-[TERRAFORM - Create SSM Parameter Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_SSM_Parameter_Using_Terraform.md)
+[TERRAFORM - Create SSM Parameter Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_SSM_Parameter_Using_Terraform.md)  
+[TERRAFORM - Cloud Watch Setup Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Cloud_Watch_Setup_Using_Terraform.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
