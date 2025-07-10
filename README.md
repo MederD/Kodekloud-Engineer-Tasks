@@ -196,7 +196,8 @@
 [TERRAFORM - Cloud Formation Template Deployment Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/CloudFormation_Template_Deployment_Using_Terraform.md)  
 [TERRAFORM - Open Search Setup Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Open_Search_Setup_Using_Terraform.md)  
 [TERRAFORM - Secrets Manager Setup Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Secrets_Manager_Setup_Using_Terraform.md)  
-[TERRAFORM - Attach Elastic IP Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Attach_Elastic%20IP_Using_Terraform.md)
+[TERRAFORM - Attach Elastic IP Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Attach_Elastic%20IP_Using_Terraform.md)  
+[TERRAFORM - Attach Policy Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Attach_Policy_Using_Terraform.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
