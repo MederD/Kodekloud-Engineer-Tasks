@@ -94,6 +94,7 @@
 [Linux Resource Limits](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Linux_Resource_Limits.md)  
 [Selinux Installation](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Selinux_Installation.md)  
 [KUBERNETES - Create Countdown Job in Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Create_Countdown_Job_in_Kubernetes.md)  
+[LINUX -  Linux User Setup with Non-Interactive Shell](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_User_Setup_with_NonInteractive_Shell.md)  
 [LINUX - Create a Cron Job](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Create_a-Cron_Job.md)  
 [LINUX - Linux Banner](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_Banner.md)  
 [KUBERNETES - Resolve Pod Deployment Issue](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Resolve_Pod_Deployment_Issue.md)    
