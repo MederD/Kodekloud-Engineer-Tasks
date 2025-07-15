@@ -149,6 +149,7 @@
 [LINUX - Install and Configure PHP-FPM](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Install_and_Configure_PHPFPM.md)  
 [LINUX - Configure Nginx + PHP-FPM Using Unix Sock](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Configure_Nginx-PHPFPM-Using-Unix-Sock.md)  
 [LINUX - Temporary User Setup with Expiry](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Temporary_User_Setup_with_Expiry.md)  
+[LINUX - Secure Root SSH Access](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Secure_Root_SSH_Access.md)  
 [DOCKER - Docker Update Permissions](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Docker_Update_Permissions.md)  
 [DOCKER - Create a Docker Image From Container](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Create_a_Docker_Image_From_Container.md)  
 [DOCKER - Docker EXEC Operations](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Docker_EXEC_Operations.md)  
