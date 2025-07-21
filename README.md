@@ -203,7 +203,8 @@
 [TERRAFORM - Attach Elastic IP Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Attach_Elastic%20IP_Using_Terraform.md)  
 [TERRAFORM - Attach Policy Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Attach_Policy_Using_Terraform.md)  
 [TERRAFORM - Enable S3 Versioning Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Enable_S3_Versioning_Using_Terraform.md)  
-[TERRAFORM - Delete Backup from S3 Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Delete_Backup_from_S3_Using_Terraform.md)
+[TERRAFORM - Delete Backup from S3 Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Delete_Backup_from_S3_Using_Terraform.md)  
+[TERRAFORM - Copy Data to S3 Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Copy_Data_to_S3_Using_Terraform.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
