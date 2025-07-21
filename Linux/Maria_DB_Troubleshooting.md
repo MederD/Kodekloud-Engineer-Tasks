@@ -23,4 +23,5 @@ sudo chown mysql:mysql /var/lib/mysql
 sudo chown mysql:mysql /var/run/mariadb
 sudo start systemctl mariadb
 ```
+[reference](https://dev.mysql.com/doc/mysql-secure-deployment-guide/5.7/en/secure-deployment-permissions.html)  
 [back](https://github.com/MederD/Kodekloud-Engineer-Tasks)
