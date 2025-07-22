@@ -12,6 +12,6 @@ kill -9 470 (in my case 470 sendmail)
 systemctl restart httpd
 systemctl status httpd
 sudo iptables -I INPUT -p tcp -m tcp --dport 8085 -j ACCEPT  && sudo iptables-save > /etc/sysconfig/iptables &&  cat /etc/sysconfig/iptables
-```
-
+```  
+[reference](https://www.redhat.com/en/blog/iptables)  
 [back](https://github.com/MederD/Kodekloud-Engineer-Tasks) 
