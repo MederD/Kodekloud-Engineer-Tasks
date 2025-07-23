@@ -23,4 +23,5 @@ check from stlb01 if you able to connect:
 ssh loki@stlb01
 telnet stapp01 8086
 ```
+[reference](https://www.redhat.com/en/blog/iptables)  
 [back](https://github.com/MederD/Kodekloud-Engineer-Tasks)  
