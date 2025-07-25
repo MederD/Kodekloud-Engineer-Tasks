@@ -19,8 +19,6 @@ server {
     listen 443 http2 ssl;
     listen [::]:443 http2 ssl;
 
-    server_name your_server_ip;
-
     ssl_certificate /etc/ssl/nautilus.crt;
     ssl_certificate_key /etc/ssl/nautilus.key;
     ssl_dhparam /etc/ssl/dhparam.pem;
