@@ -14,6 +14,7 @@ Identify which server is not responing, in my case it was `stapp01`, then:
 ssh tony@stapp01
 sudo systemctl status httpd
 sudo systemctl start httpd
+sudo journalctl -xe -u httpd -> This will tell exactly where the issue is
 sudo netstat -tulpn
 sudo ss -tuln | grep ':5002'
 sudo kill <PROCESS_ID>
@@ -26,4 +27,5 @@ From jump_host check:
 ```
 curl stapp01:5002
 ```
+[reference](https://www.redhat.com/en/blog/linux-command-basics-7-commands-process-management)  
 [back](https://github.com/MederD/Kodekloud-Engineer-Tasks) 
