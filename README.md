@@ -205,7 +205,8 @@
 [TERRAFORM - Enable S3 Versioning Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Enable_S3_Versioning_Using_Terraform.md)  
 [TERRAFORM - Delete Backup from S3 Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Delete_Backup_from_S3_Using_Terraform.md)  
 [TERRAFORM - Copy Data to S3 Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Copy_Data_to_S3_Using_Terraform.md)  
-[TERRAFORM - VPC Variable Setup Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/VPC_Variable_Setup_Using_Terraform.md)
+[TERRAFORM - VPC Variable Setup Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/VPC_Variable_Setup_Using_Terraform.md)  
+[LINUX - Install and Configure Nginx as an LBR](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Install_and_Configure_Nginx_as_an_LBR.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
