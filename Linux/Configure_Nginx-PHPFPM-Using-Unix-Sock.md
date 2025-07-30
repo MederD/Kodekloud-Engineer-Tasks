@@ -96,4 +96,5 @@ Solution:
     ```bash
     curl http://stapp01:8097/index.php
     ```
+[reference](https://www.digitalocean.com/community/tutorials/php-fpm-nginx)  
 [back](https://github.com/MederD/Kodekloud-Engineer-Tasks)
