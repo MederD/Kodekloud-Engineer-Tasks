@@ -207,7 +207,8 @@
 [TERRAFORM - Copy Data to S3 Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Copy_Data_to_S3_Using_Terraform.md)  
 [TERRAFORM - VPC Variable Setup Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/VPC_Variable_Setup_Using_Terraform.md)  
 [LINUX - Install and Configure Nginx as an LBR](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Install_and_Configure_Nginx_as_an_LBR.md)  
-[TERRAFORM - Role Variable Setup Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Role_Variable_Setup_Using_Terraform.md)
+[TERRAFORM - Role Variable Setup Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Role_Variable_Setup_Using_Terraform.md)  
+[TERRAFORM - Create VPC and Subnet Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_VPC_and_Subnet_Using_Terraform.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
