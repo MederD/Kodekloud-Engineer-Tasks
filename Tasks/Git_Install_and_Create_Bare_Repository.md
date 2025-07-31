@@ -21,5 +21,5 @@ sudo mkdir -p /opt/beta.git && cd $_
 ```
 sudo git init --bare
 ```
-
+[reference](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/What-is-a-bare-git-repository)  
 [back](https://github.com/MederD)  
