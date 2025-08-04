@@ -209,7 +209,8 @@
 [LINUX - Install and Configure Nginx as an LBR](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Install_and_Configure_Nginx_as_an_LBR.md)  
 [TERRAFORM - Role Variable Setup Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Role_Variable_Setup_Using_Terraform.md)  
 [TERRAFORM - Create VPC and Subnet Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_VPC_and_Subnet_Using_Terraform.md)  
-[TERRAFORM - Launch EC2 in Private VPC Subnet Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Launch_EC2_in_Private_VPC_Subnet_Using_Terraform.md)
+[TERRAFORM - Launch EC2 in Private VPC Subnet Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Launch_EC2_in_Private_VPC_Subnet_Using_Terraform.md)  
+[TERRAFORM - Replace Existing EC2 Instance via Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Replace_Existing_EC2_Instance_via_Terraform.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
