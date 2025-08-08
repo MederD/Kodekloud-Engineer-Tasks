@@ -9,7 +9,7 @@ ssh natasha@ststor01
 sudo su
 git status
 git log
-git revert HEAD ->> Commit "revert media"
+git revert HEAD ---------------->>Add this Commit "revert media"
 git log
 git push origin master
 ```
