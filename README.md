@@ -212,7 +212,8 @@
 [TERRAFORM - Launch EC2 in Private VPC Subnet Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Launch_EC2_in_Private_VPC_Subnet_Using_Terraform.md)  
 [TERRAFORM - Replace Existing EC2 Instance via Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Replace_Existing_EC2_Instance_via_Terraform.md)  
 [TERRAFORM - Deploy Multiple EC2 Instances with Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Deploy_Multiple_EC2_Instances_with_Terraform.md)  
-[TERRAFORM - Associate Elastic IP with EC2 Instance Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Associate_Elastic_IP_with_EC2_Instance_Using_Terraform.md)
+[TERRAFORM - Associate Elastic IP with EC2 Instance Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Associate_Elastic_IP_with_EC2_Instance_Using_Terraform.md)  
+[TERRAFORM - Stream Kinesis Data to CloudWatch Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Stream_Kinesis_Data_to_CloudWatch_Using_Terraform.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
