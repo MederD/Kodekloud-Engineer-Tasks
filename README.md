@@ -215,7 +215,8 @@
 [TERRAFORM - Associate Elastic IP with EC2 Instance Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Associate_Elastic_IP_with_EC2_Instance_Using_Terraform.md)  
 [TERRAFORM - Stream Kinesis Data to CloudWatch Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Stream_Kinesis_Data_to_CloudWatch_Using_Terraform.md)  
 [TERRAFORM - Sync Data to S3 Bucket with Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Sync_Data_to_S3_Bucket_with_Terraform.md)  
-[TERRAFORM - Prevent S3 Bucket Deletion via Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Prevent_S3_Bucket_Deletion_via_Terraform.md)
+[TERRAFORM - Prevent S3 Bucket Deletion via Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Prevent_S3_Bucket_Deletion_via_Terraform.md)   
+[TERRAFORM - Grant EC2 Access to S3 Bucket Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Grant_EC2_Access_to_S3_Bucket_Using_Terraform.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
