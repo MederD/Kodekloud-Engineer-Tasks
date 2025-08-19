@@ -218,7 +218,8 @@
 [TERRAFORM - Prevent S3 Bucket Deletion via Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Prevent_S3_Bucket_Deletion_via_Terraform.md)   
 [TERRAFORM - Grant EC2 Access to S3 Bucket Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Grant_EC2_Access_to_S3_Bucket_Using_Terraform.md)  
 [TERRAFORM - Implement S3 Lifecycle Management Policy Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Implement_S3_Lifecycle_Management_Policy_Using_Terraform.md)  
-[TERRAFORM - Integrate SNS with SQS for Messaging Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Integrate_SNS_with_SQS_for_Messaging_Using_Terraform.md)
+[TERRAFORM - Integrate SNS with SQS for Messaging Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Integrate_SNS_with_SQS_for_Messaging_Using_Terraform.md)  
+[TERRAFORM - Attach IAM Role with Inline Policy Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Attach_IAM_Role_with_Inline_Policy_Using_Terraform.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
