@@ -220,7 +220,8 @@
 [TERRAFORM - Implement S3 Lifecycle Management Policy Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Implement_S3_Lifecycle_Management_Policy_Using_Terraform.md)  
 [TERRAFORM - Integrate SNS with SQS for Messaging Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Integrate_SNS_with_SQS_for_Messaging_Using_Terraform.md)  
 [TERRAFORM - Attach IAM Role with Inline Policy Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Attach_IAM_Role_with_Inline_Policy_Using_Terraform.md)  
-[TERRAFORM - Provision IAM User with Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Provision_IAM_User_with_Terraform.md)
+[TERRAFORM - Provision IAM User with Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Provision_IAM_User_with_Terraform.md)  
+[TERRAFORM - Attach IAM Policy for DynamoDB Access Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Attach_IAM_Policy_for_DynamoDB_Access_Using_Terraform.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
