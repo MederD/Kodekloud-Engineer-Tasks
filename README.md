@@ -222,7 +222,8 @@
 [TERRAFORM - Attach IAM Role with Inline Policy Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Attach_IAM_Role_with_Inline_Policy_Using_Terraform.md)  
 [TERRAFORM - Provision IAM User with Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Provision_IAM_User_with_Terraform.md)  
 [TERRAFORM - Attach IAM Policy for DynamoDB Access Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Attach_IAM_Policy_for_DynamoDB_Access_Using_Terraform.md)  
-[TERRAFORM - Send Notifications from IAM Events to SNS Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Send_Notifications_from_IAM_Events_to_SNS_Using_Terraform.md)
+[TERRAFORM - Send Notifications from IAM Events to SNS Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Send_Notifications_from_IAM_Events_to_SNS_Using_Terraform.md)  
+[TERRAFORM - Access Secrets Manager with IAM Role Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Access_Secrets_Manager_with_IAM_Role_Using_Terraform.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
