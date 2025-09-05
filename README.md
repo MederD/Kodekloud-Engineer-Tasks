@@ -226,7 +226,8 @@
 [TERRAFORM - Access Secrets Manager with IAM Role Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Access_Secrets_Manager_with_IAM_Role_Using_Terraform.md)  
 [TERRAFORM - Create and Configure Alarm Using CloudWatch Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_and_Configure_Alarm_Using_CloudWatch_Using_Terraform.md)  
 [TERRAFORM - Configure CloudWatch to Trigger SNS Alerts Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Configure_CloudWatch_to_Trigger_SNS_Alerts_Using_Terraform.md)  
-[TERRAFORM - Create DynamoDB Table Using CloudFormation Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_DynamoDB_Table_Using_CloudFormation_Using_Terraform.md)
+[TERRAFORM - Create DynamoDB Table Using CloudFormation Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_DynamoDB_Table_Using_CloudFormation_Using_Terraform.md)  
+[TERRAFORM - Building a Real-Time Data Ingestion Pipeline with Kinesis Firehose Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Building_a_RealTime_Data_Ingestion_Pipeline_with_Kinesis_Firehose_Using_Terraform.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
