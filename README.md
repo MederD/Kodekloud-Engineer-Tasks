@@ -230,7 +230,8 @@
 [TERRAFORM - Building a Real-Time Data Ingestion Pipeline with Kinesis Firehose Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Building_a_RealTime_Data_Ingestion_Pipeline_with_Kinesis_Firehose_Using_Terraform.md)  
 [TERRAFORM - Managing Scalable NoSQL Databases with Amazon DynamoDB Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Managing_Scalable_NoSQL_Databases_with_Amazon_DynamoDB_Using_Terraform.md)  
 [TERRAFORM - Enforcing IAM Naming Standards and Permissions Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Enforcing_IAM_Naming_Standards_and_Permissions_Using_Terraform.md)  
-[TERRAFORM - Streaming Secure Data with Kinesis, STS, and S3 Integration Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Streaming_Secure_Data_with_Kinesis_STS_and_S3_Integration_Using_Terraform.md)
+[TERRAFORM - Streaming Secure Data with Kinesis, STS, and S3 Integration Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Streaming_Secure_Data_with_Kinesis_STS_and_S3_Integration_Using_Terraform.md)  
+[TERRAFORM - Implementing Encryption at Rest with AWS KMS Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Implementing_Encryption_at_Rest_with_AWS_KMS_Using_Terraform.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
