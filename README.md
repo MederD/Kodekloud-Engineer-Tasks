@@ -221,6 +221,7 @@
 [TERRAFORM - Integrate SNS with SQS for Messaging Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Integrate_SNS_with_SQS_for_Messaging_Using_Terraform.md)  
 [TERRAFORM - Attach IAM Role with Inline Policy Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Attach_IAM_Role_with_Inline_Policy_Using_Terraform.md)  
 [TERRAFORM - Provision IAM User with Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Provision_IAM_User_with_Terraform.md)  
+[TERRAFORM - Storing and Accessing Sensitive Data Securely with AWS Secrets Manager Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Storing_and_Accessing_Sensitive_Data_Securely_with_AWS_Secrets_Manager_Using_Terraform.md)  
 [TERRAFORM - Attach IAM Policy for DynamoDB Access Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Attach_IAM_Policy_for_DynamoDB_Access_Using_Terraform.md)  
 [TERRAFORM - Send Notifications from IAM Events to SNS Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Send_Notifications_from_IAM_Events_to_SNS_Using_Terraform.md)  
 [TERRAFORM - Access Secrets Manager with IAM Role Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Access_Secrets_Manager_with_IAM_Role_Using_Terraform.md)  
