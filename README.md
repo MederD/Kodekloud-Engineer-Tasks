@@ -235,7 +235,8 @@
 [TERRAFORM - Implementing Encryption at Rest with AWS KMS Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Implementing_Encryption_at_Rest_with_AWS_KMS_Using_Terraform.md)  
 [TERRAFORM - Deploying a Multi-Tier Architecture on AWS Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Deploying_a_Multi_Tier_Architecture_on_AWS_Using_Terraform.md)  
 [TERRAFORM - Managing Multiple S3 Buckets with Fine-Grained Access Policies Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Managing_Multiple_S3_Buckets_with_Fine_Grained_Access_Policies_Using_Terraform.md)  
-[TERRAFORM - Hosting a Static Website on Amazon S3 with Custom Configuration Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Hosting_a_Static_Website_on_Amazon_S3_with_Custom_Configuration_Using_Terraform.md)
+[TERRAFORM - Hosting a Static Website on Amazon S3 with Custom Configuration Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Hosting_a_Static_Website_on_Amazon_S3_with_Custom_Configuration_Using_Terraform.md)  
+[TERRAFORM - Managing Terraform Workspaces for Environment Isolation Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Managing_Terraform_Workspaces_for_Environment_Isolation_Using_Terraform.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
