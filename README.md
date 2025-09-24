@@ -239,7 +239,8 @@
 [TERRAFORM - Managing Terraform Workspaces for Environment Isolation Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Managing_Terraform_Workspaces_for_Environment_Isolation_Using_Terraform.md)  
 [JENKINS - Jenkins Database Backup Job](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Jenkins/Jenkins_Database_Backup_Job.md)   
 [ANSIBLE - Troubleshoot and Create Ansible Playbook](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Ansible/Troubleshoot_and_Create_Ansible_Playbook.md)   
-[JENKINS - Jenkins Slave Nodes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Jenkins/Jenkins_Slave_Nodes.md)
+[JENKINS - Jenkins Slave Nodes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Jenkins/Jenkins_Slave_Nodes.md)  
+[ANSIBLE - Configure Default SSH User for Ansible](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Ansible/Configure_Default_SSH_User_for_Ansible.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
