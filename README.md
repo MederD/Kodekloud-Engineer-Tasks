@@ -240,7 +240,8 @@
 [JENKINS - Jenkins Database Backup Job](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Jenkins/Jenkins_Database_Backup_Job.md)   
 [ANSIBLE - Troubleshoot and Create Ansible Playbook](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Ansible/Troubleshoot_and_Create_Ansible_Playbook.md)   
 [JENKINS - Jenkins Slave Nodes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Jenkins/Jenkins_Slave_Nodes.md)  
-[ANSIBLE - Configure Default SSH User for Ansible](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Ansible/Configure_Default_SSH_User_for_Ansible.md)
+[ANSIBLE - Configure Default SSH User for Ansible](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Ansible/Configure_Default_SSH_User_for_Ansible.md)  
+[ANSIBLE - Copy Data to App Servers using Ansible](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Ansible/Copy_Data_to_App_Servers_using_Ansible.md)
 
 ###### End     
 [:arrow_up:](#tasks) 
