@@ -3,6 +3,9 @@
 [:arrow_down:](#end)
 
 ### Tasks:  
+<details>
+<summary>ANSIBLE</summary>
+  
 [ANSIBLE - Ansible Basic Playbook](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Ansible_Basic_Playbook.md)  
 [ANSIBLE - Ansible Blockinfile Module](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Ansible_Blockinfile_Module.md)  
 [ANSIBLE - Ansible Config File Update](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Ansible_Config_File_Update.md)   
@@ -21,6 +24,13 @@
 [ANSIBLE - Managing Jinja2 Templates Using Ansible](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Managing_Jinja2_Templates_Using_Ansible.md)  
 [ANSIBLE - Troubleshoot and Create Ansible Playbook](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Ansible/Troubleshoot_and_Create_Ansible_Playbook.md)   
 [ANSIBLE - Using Ansible Conditionals](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Using_Ansible_Conditionals.md)  
+
+</details>
+
+***
+<details>
+<summary>DOCKER</summary>
+  
 [DOCKER - Copy File to Docker Container](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Copy_File_to_Docker_Container.md)   
 [DOCKER - Create a Docker Image From Container](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Create_a_Docker_Image_From_Container.md)  
 [DOCKER - Create a Docker Network](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Create_a_Docker_Network.md)  
@@ -41,6 +51,13 @@
 [DOCKER - Save, Load and Transfer Docker Image](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Save_Load_and_Transfer_Docker_Image.md)  
 [DOCKER - Write a Docker Compose File](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Write_a_Docker_Compose_File.md)    
 [DOCKER - Write a Docker File](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Docker/Write_a_Docker_File.md)  
+
+</details>
+
+***
+<details>
+<summary>GIT</summary>
+  
 [GIT - Delete Git Branch](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Delete_Git_Branch.md)  
 [GIT - Git Cherry Pick](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Cherry_Pick.md)  
 [GIT - Git Clean](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Clean.md)  
@@ -60,11 +77,25 @@
 [GIT - Manage Git Repositories](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Manage_Git_Repositories.md)  
 [GIT - Resolve Git Merge Conflicts](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Resolve_Git_Merge_Conflicts.md)    
 [GIT - Set Up Git Repository on Storage Server](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Git_Install_and_Create_Bare_Repository.md)   
+
+</details>
+
+***
+<details>
+<summary>JENKINS</summary>
+  
 [JENKINS - Configure Jenkins Job for Package Installation](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Jenkins/Configure_Jenkins_Job_for_Package_Installation.md)  
 [JENKINS - Jenkins Database Backup Job](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Jenkins/Jenkins_Database_Backup_Job.md)   
 [JENKINS - Jenkins Slave Nodes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Jenkins/Jenkins_Slave_Nodes.md)  
 [JENKINS - Organize Jenkins Jobs with Folders](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Jenkins/Organize_Jenkins_Jobs_with_Folders.md)  
 [JENKINS - Set Up Jenkins Server](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Jenkins/Set_Up_Jenkins_Server.md)  
+
+</details>
+
+***
+<details>
+<summary>KUBERNETES</summary>
+  
 [KUBERNETES - Countdown job in Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Countdown_job_in_Kubernetes.md)  
 [KUBERNETES - Create Countdown Job in Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Create_Countdown_Job_in_Kubernetes.md)  
 [KUBERNETES - Create Cronjobs in Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Create_Cronjobs_in_Kubernetes.md)  
@@ -114,6 +145,13 @@
 [KUBERNETES - Troubleshoot Deployment issues in Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Troubleshoot_Deployment_issues_in_Kubernetes.md)   
 [KUBERNETES - Troubleshoot Issue With Pods](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Troubleshoot_Issue_With_Pods.md)   
 [KUBERNETES - Update an Existing Deployment in Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Update_an_Existing_Deployment_in_Kubernetes.md)  
+
+</details>
+
+***
+<details>
+<summary>LINUX</summary>
+  
 [LINUX -  Linux User Setup with Non-Interactive Shell](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Linux_User_Setup_with_NonInteractive_Shell.md)  
 [LINUX - Add Response Headers in Apache](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Add_Response_Headers_in_Apache.md)  
 [LINUX - Apache Redirects](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Apache_Redirects.md)  
@@ -165,6 +203,13 @@
 [LINUX - Selinux Installation](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Selinux_Installation.md)  
 [LINUX - Setup SSL for Nginx](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Setup_SSL_for_Nginx.md)  
 [LINUX - Temporary User Setup with Expiry](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Linux/Temporary_User_Setup_with_Expiry.md)  
+
+</details>
+
+***
+<details>
+<summary>PUPPET</summary>
+  
 [PUPPET - Install Puppet Agent](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Install_Puppet_Agent.md)   
 [PUPPET - Install Puppet Server](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Install_Puppet_Server.md)  
 [PUPPET - Puppet Add Users](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Puppet_Add_Users.md)    
@@ -176,7 +221,14 @@
 [PUPPET - Puppet Setup SSH Keys](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Puppet_Setup_SSH_Keys.md)  
 [PUPPET - Puppet String Manipulation](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Puppet_String_Manipulation.md)    
 [PUPPET - Setup Puppet Certs Autosign](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Setup_Puppet_Certs_Autosign.md)   
-[PUPPET - Setup Puppet Certs](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Setup_Puppet_Certs.md)    
+[PUPPET - Setup Puppet Certs](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Setup_Puppet_Certs.md)
+
+</details>
+
+***
+<details>
+<summary>TERRAFORM</summary>
+  
 [TERRAFORM - Access Secrets Manager with IAM Role Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Access_Secrets_Manager_with_IAM_Role_Using_Terraform.md)  
 [TERRAFORM - Associate Elastic IP with EC2 Instance Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Associate_Elastic_IP_with_EC2_Instance_Using_Terraform.md)  
 [TERRAFORM - Attach Elastic IP Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Attach_Elastic%20IP_Using_Terraform.md)  
@@ -237,7 +289,7 @@
 [TERRAFORM - Sync Data to S3 Bucket with Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Sync_Data_to_S3_Bucket_with_Terraform.md)  
 [TERRAFORM - VPC Variable Setup Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/VPC_Variable_Setup_Using_Terraform.md)  
 
-  
+</details>  
 
 ###### End     
 [:arrow_up:](#tasks) 
