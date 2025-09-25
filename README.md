@@ -1,4 +1,5 @@
-## This repository is intended for educational purposes only. It contains solutions and examples for various tasks related to KodeKloud Engineer training. The content is designed to help users to learn and apply this knowledge in practice.
+> [!NOTE]  
+> This repository is intended for educational purposes only. It contains solutions and examples for various tasks related to KodeKloud Engineer training. The content is designed to help users to learn and apply this knowledge in practice.
 
 [:arrow_down:](#end)
 
