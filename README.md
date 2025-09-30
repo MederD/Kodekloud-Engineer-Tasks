@@ -28,6 +28,7 @@
 </details>
 
 ***
+
 <details>
 <summary>DOCKER</summary>
   
@@ -55,6 +56,7 @@
 </details>
 
 ***
+
 <details>
 <summary>GIT</summary>
   
@@ -90,7 +92,8 @@
 [JENKINS - Organize Jenkins Jobs with Folders](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Jenkins/Organize_Jenkins_Jobs_with_Folders.md)  
 [JENKINS - Set Up Jenkins Server](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Jenkins/Set_Up_Jenkins_Server.md)  
 [JENKINS - Jenkins Conditional Pipeline](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Jenkins/Jenkins_Conditional_Pipeline.md)  
-[JENKINS - Jenkins Deployment Job](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Jenkins/Jenkins_Deployment_Job.md)
+[JENKINS - Jenkins Deployment Job](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Jenkins/Jenkins_Deployment_Job.md)  
+[JENKINS - Jenkins Multistage Pipeline](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Jenkins/Jenkins_Multistage_Pipeline.md)
 
 </details>
 
