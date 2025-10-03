@@ -24,6 +24,7 @@
 [ANSIBLE - Managing Jinja2 Templates Using Ansible](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Managing_Jinja2_Templates_Using_Ansible.md)  
 [ANSIBLE - Troubleshoot and Create Ansible Playbook](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Ansible/Troubleshoot_and_Create_Ansible_Playbook.md)   
 [ANSIBLE - Using Ansible Conditionals](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Using_Ansible_Conditionals.md)  
+[ANSIBLE - Create Files on App Servers using Ansible](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Ansible/Create_Files_on_App_Servers_using_Ansible.md)  
 
 </details>
 
