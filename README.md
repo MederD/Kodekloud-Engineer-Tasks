@@ -25,6 +25,7 @@
 [ANSIBLE - Troubleshoot and Create Ansible Playbook](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Ansible/Troubleshoot_and_Create_Ansible_Playbook.md)   
 [ANSIBLE - Using Ansible Conditionals](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Using_Ansible_Conditionals.md)  
 [ANSIBLE - Create Files on App Servers using Ansible](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Ansible/Create_Files_on_App_Servers_using_Ansible.md)  
+[ANSIBLE - Ansible Install Package](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Ansible/Ansible_Install_Package.md)
 
 </details>
 
