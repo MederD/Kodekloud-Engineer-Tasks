@@ -55,7 +55,7 @@ Solution:
     lineinfile:
       path: /var/www/html/index.html
       line: 'Welcome to Nautilus Group!'
-      instertbefore: 'BOF'
+      insertbefore: 'BOF'
       state: present
 
   - name: file permissions
