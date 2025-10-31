@@ -68,15 +68,15 @@ resource "aws_instance" "my_ec2" {
 ---
 `outputs.tf`:
 output "KKE_vpc_name" {
-  value = aws_vpc.my.tags["Name"]
+  value = aws_vpc.my_vpc.tags["Name"]
 }
 
 output "KKE_subnet_name" {
-  value = aws_subnet.my.tags["Name"]
+  value = aws_subnet.my_subnet.tags["Name"]
 }
 
 output "KKE_ec2_private" {
-  value = aws_instance.my.tags["Name"]
+  value = aws_instance.my_ec2.tags["Name"]
 }
 
 ```
