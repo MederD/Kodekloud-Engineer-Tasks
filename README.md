@@ -26,7 +26,8 @@
 [ANSIBLE - Using Ansible Conditionals](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Using_Ansible_Conditionals.md)  
 [ANSIBLE - Create Files on App Servers using Ansible](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Ansible/Create_Files_on_App_Servers_using_Ansible.md)  
 [ANSIBLE - Ansible Install Package](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Ansible/Ansible_Install_Package.md)  
-[ANSIBLE - Ansible Archive Module](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Ansible/Ansible_Archive_Module.md)
+[ANSIBLE - Ansible Archive Module](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Ansible/Ansible_Archive_Module.md)  
+[ANSIBLE - Ansible Manage Services](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Ansible/Ansible_Manage_Services.md)
 
 </details>
 
