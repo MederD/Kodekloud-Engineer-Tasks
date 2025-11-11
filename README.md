@@ -296,7 +296,8 @@
 [TERRAFORM - Stream Kinesis Data to CloudWatch Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Stream_Kinesis_Data_to_CloudWatch_Using_Terraform.md)  
 [TERRAFORM - Streaming Secure Data with Kinesis, STS, and S3 Integration Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Streaming_Secure_Data_with_Kinesis_STS_and_S3_Integration_Using_Terraform.md)  
 [TERRAFORM - Sync Data to S3 Bucket with Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Sync_Data_to_S3_Bucket_with_Terraform.md)  
-[TERRAFORM - VPC Variable Setup Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/VPC_Variable_Setup_Using_Terraform.md)  
+[TERRAFORM - VPC Variable Setup Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/VPC_Variable_Setup_Using_Terraform.md)   
+[TERRAFORM - Alerting in CI/CD Pipelines Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Alerting_in_CICD_Pipelines_Using_Terraform.md)
 
 </details>  
 
