@@ -42,6 +42,6 @@ Create index.yml:
   - service:
       name: httpd
       state: restarted
-```
-
+```  
+[reference](https://docs.ansible.com/projects/ansible/latest/playbook_guide/playbooks_vars_facts.html)  
 [back](https://github.com/MederD/Kodekloud-Engineer-Tasks)  
