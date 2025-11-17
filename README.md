@@ -28,7 +28,8 @@
 [ANSIBLE - Ansible Install Package](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Ansible/Ansible_Install_Package.md)  
 [ANSIBLE - Ansible Archive Module](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Ansible/Ansible_Archive_Module.md)  
 [ANSIBLE - Ansible Manage Services](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Ansible/Ansible_Manage_Services.md)  
-[ANSIBLE - Ansible Create Users and Groups](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Ansible/Ansible_Create_Users_and_Groups.md)
+[ANSIBLE - Ansible Create Users and Groups](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Ansible/Ansible_Create_Users_and_Groups.md)  
+[ANSIBLE - Ansible Setup Httpd and PHP](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Ansible_Setup_Httpd_and_PHP.md)
 
 </details>
 
