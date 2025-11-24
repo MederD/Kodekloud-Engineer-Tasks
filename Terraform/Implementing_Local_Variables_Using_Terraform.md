@@ -140,12 +140,12 @@ variable "KKE_AWS_REGION" {
   description = "AWS region to be used"
   type        = string
   default     = "us-east-1"
+
   validation {
-    condition     = contains(us-east-1, var.KKE_AWS_REGION)
+    condition     = contains(["us-east-1"], var.KKE_AWS_REGION)
     error_message = "The AWS region must be one of the following: us-east-1."
   }
 }
-
 variable "KKE_QUEUE_DEPTH_THRESHOLD" {
   description = "CloudWatch alarm threshold for queue depth"
   type        = number
