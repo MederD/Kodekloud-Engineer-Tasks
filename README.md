@@ -300,7 +300,8 @@
 [TERRAFORM - Sync Data to S3 Bucket with Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Sync_Data_to_S3_Bucket_with_Terraform.md)  
 [TERRAFORM - VPC Variable Setup Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/VPC_Variable_Setup_Using_Terraform.md)   
 [TERRAFORM - Alerting in CI/CD Pipelines Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Alerting_in_CICD_Pipelines_Using_Terraform.md)  
-[TERRAFORM - Implementing Local Variables Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Implementing_Local_Variables_Using_Terraform.md)
+[TERRAFORM - Implementing Local Variables Using Terraform](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Implementing_Local_Variables_Using_Terraform.md)  
+[TERRAFORM - Create and Use Terraform Modules](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Terraform/Create_and_Use_Terraform_Modules.md)
 
 </details>  
 
