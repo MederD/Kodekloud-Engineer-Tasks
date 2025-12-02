@@ -33,8 +33,15 @@
 
 </details>
 
-***
+***  
+<details>
+<summary>AZURE</summary>  
+  
+[AZURE - Create an Azure Virtual Machine](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Create_an_Azure_Virtual_Machine.md)  
+  
+</details>  
 
+***  
 <details>
 <summary>DOCKER</summary>
   
