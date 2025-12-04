@@ -38,6 +38,7 @@
 <summary>AZURE</summary>  
   
 [AZURE - Create an Azure Virtual Machine](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Create_an_Azure_Virtual_Machine.md)  
+[AZURE - Create a Virtual Network (VNet) in Azure](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Create_a_Virtual_Network_in_Azure.md)
   
 </details>  
 
