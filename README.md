@@ -39,7 +39,8 @@
   
 [AZURE - Create an Azure Virtual Machine](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Create_an_Azure_Virtual_Machine.md)  
 [AZURE - Create a Virtual Network (VNet) in Azure](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Create_a_Virtual_Network_in_Azure.md)  
-[AZURE - Add and Manage Tags for Azure Virtual Machines](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Add_and_Manage_Tags_for_Azure_Virtual_Machines.md)
+[AZURE - Add and Manage Tags for Azure Virtual Machines](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Add_and_Manage_Tags_for_Azure_Virtual_Machines.md)  
+[AZURE - Create and Configure Network Security Group (NSG) in Azure](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Create_and_Configure_Network_Security_Group_(NSG)_in_Azure.md)
   
 </details>  
 
