@@ -41,7 +41,8 @@
 [AZURE - Create a Virtual Network (VNet) in Azure](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Create_a_Virtual_Network_in_Azure.md)  
 [AZURE - Add and Manage Tags for Azure Virtual Machines](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Add_and_Manage_Tags_for_Azure_Virtual_Machines.md)  
 [AZURE - Create and Configure Network Security Group (NSG) in Azure](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Create_and_Configure_Network_Security_Group_(NSG)_in_Azure.md)  
-[AZURE - Create a Private Azure Blob Storage Container](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Create_a_Private_Azure_Blob_Storage_Container.md)
+[AZURE - Create a Private Azure Blob Storage Container](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Create_a_Private_Azure_Blob_Storage_Container.md)  
+[AZURE - Automating User Data Configuration Using the CLI](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Automating_User_Data_Configuration_Using_the_CLI.md)
   
 </details>  
 
