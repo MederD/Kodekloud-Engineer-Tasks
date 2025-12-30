@@ -45,7 +45,8 @@
 [AZURE - Automating User Data Configuration Using the CLI](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Automating_User_Data_Configuration_Using_the_CLI.md)  
 [AZURE - Expanding and Managing Disk Storage](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Expanding_and_Managing_Disk_Storage.md)  
 [AZURE - Deploying Virtual Machines in a Private Virtual Network](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Deploying_Virtual_Machines_in_a_Private_Virtual_Network.md)  
-[AZURE - Troubleshooting Public Virtual Network Configurations](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Troubleshooting_Public_Virtual_Network_Configurations.md)
+[AZURE - Troubleshooting Public Virtual Network Configurations](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Troubleshooting_Public_Virtual_Network_Configurations.md)  
+[AZURE - Create Azure SQL Database](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Create_Azure_SQL_Database.md)
   
 </details>  
 
