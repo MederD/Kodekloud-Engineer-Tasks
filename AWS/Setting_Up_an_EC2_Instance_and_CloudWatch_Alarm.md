@@ -11,7 +11,7 @@ The alarm should trigger if the CPU utilization exceeds 90% for one consecutive 
 Solution:  
 ```bash
 ami=$(aws ec2 describe-images --owners 099720109477 --filters 'Name=name,Values=ubuntu/images/hvm-ssd-gp3/ubuntu-noble-24.04-amd64-server-*' --query 'Images | sort_by(@, &CreationDate) | [-1].ImageId' --output text)
-aws ec2 run-instances --iamge-id $ami --instance-type t2.micro --tag-specifications 'Resourcetype=instance,Tags=[{Key=Name,Value=devops-ec2}]'
+aws ec2 run-instances --image-id $ami --instance-type t2.micro --tag-specifications 'ResourceType=instance,Tags=[{Key=Name,Value=devops-ec2}]'
 instance_id=$(aws ec2 describe-instances --query "Reservations[].Instances[].InstanceId" --output text)
 topic_arn=$(aws sns list-topics --query "Topics[].TopicArn" --output text)
 aws cloudwatch put-metric-alarm --alarm-name devops-alarm --alarm-description "Alarm when CPU exceeds 90 percent" --metric-name CPUUtilization --namespace AWS/EC2 --statistic Average --period 300 --threshold 90 --comparison-operator GreaterThanOrEqualToThreshold  --dimensions "Name=InstanceId,Value=$instance_id" --evaluation-periods 1 --alarm-actions $topic_arn --unit Percent
