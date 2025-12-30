@@ -35,6 +35,14 @@
 
 ***  
 <details>
+<summary>AWS</summary>  
+  
+[AWS - Setting Up an EC2 Instance and CloudWatch Alarm](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/AWS/Setting_Up_an_EC2_Instance_and_CloudWatch_Alarm.md)  
+  
+</details>  
+
+***  
+<details>
 <summary>AZURE</summary>  
   
 [AZURE - Create an Azure Virtual Machine](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Create_an_Azure_Virtual_Machine.md)  
