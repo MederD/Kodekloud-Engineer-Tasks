@@ -37,7 +37,8 @@
 <details>
 <summary>AWS</summary>  
   
-[AWS - Setting Up an EC2 Instance and CloudWatch Alarm](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/AWS/Setting_Up_an_EC2_Instance_and_CloudWatch_Alarm.md)  
+[AWS - Setting Up an EC2 Instance and CloudWatch Alarm](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/AWS/Setting_Up_an_EC2_Instance_and_CloudWatch_Alarm.md)   
+[AWS - Configuring an EC2 Instance as a Web Server with Nginx](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/AWS/Configuring_an_EC2_Instance_as_a_Web_Server_with_Nginx.md)
   
 </details>  
 
