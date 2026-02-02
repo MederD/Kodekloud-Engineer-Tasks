@@ -55,7 +55,8 @@
 [AZURE - Expanding and Managing Disk Storage](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Expanding_and_Managing_Disk_Storage.md)  
 [AZURE - Deploying Virtual Machines in a Private Virtual Network](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Deploying_Virtual_Machines_in_a_Private_Virtual_Network.md)  
 [AZURE - Troubleshooting Public Virtual Network Configurations](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Troubleshooting_Public_Virtual_Network_Configurations.md)  
-[AZURE - Create Azure SQL Database](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Create_Azure_SQL_Database.md)
+[AZURE - Create Azure SQL Database](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Create_Azure_SQL_Database.md)  
+[AZURE - Deploying and Managing a Web Application](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Deploying_and_Managing_a_Web_Application.md)
   
 </details>  
 
