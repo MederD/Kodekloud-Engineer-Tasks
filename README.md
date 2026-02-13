@@ -57,7 +57,8 @@
 [AZURE - Troubleshooting Public Virtual Network Configurations](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Troubleshooting_Public_Virtual_Network_Configurations.md)  
 [AZURE - Create Azure SQL Database](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Create_Azure_SQL_Database.md)  
 [AZURE - Deploying and Managing a Web Application](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Deploying_and_Managing_a_Web_Application.md)  
-[AZURE - Integrating Virtual Machines with Application Load Balancer](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Integrating_Virtual_Machines_with_Application_Load_Balancer.md)
+[AZURE - Integrating Virtual Machines with Application Load Balancer](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Integrating_Virtual_Machines_with_Application_Load_Balancer.md)  
+[AZURE - Configuring Virtual Network Peering](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Configuring_Virtual_Network_Peering.md)
   
 </details>  
 
