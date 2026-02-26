@@ -59,7 +59,8 @@
 [AZURE - Deploying and Managing a Web Application](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Deploying_and_Managing_a_Web_Application.md)  
 [AZURE - Integrating Virtual Machines with Application Load Balancer](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Integrating_Virtual_Machines_with_Application_Load_Balancer.md)  
 [AZURE - Configuring Virtual Network Peering](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Configuring_Virtual_Network_Peering.md)  
-[AZURE - Managing Storage Lifecycle in Azure](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Managing_Storage_Lifecycle_in_Azure.md)
+[AZURE - Managing Storage Lifecycle in Azure](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Managing_Storage_Lifecycle_in_Azure.md)  
+[AZURE - Running Containers on Azure Virtual Machines](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Running_Containers_on_Azure_Virtual_Machines.md)
   
 </details>  
 
