@@ -61,7 +61,8 @@
 [AZURE - Configuring Virtual Network Peering](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Configuring_Virtual_Network_Peering.md)  
 [AZURE - Managing Storage Lifecycle in Azure](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Managing_Storage_Lifecycle_in_Azure.md)  
 [AZURE - Running Containers on Azure Virtual Machines](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Running_Containers_on_Azure_Virtual_Machines.md)  
-[AZURE - Deploying a Static Website Using Containers on Azure](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Deploying_a_Static_Website_Using_Containers_on_Azure.md)
+[AZURE - Deploying a Static Website Using Containers on Azure](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Deploying_a_Static_Website_Using_Containers_on_Azure.md)  
+[AZURE - Managing Secrets with Azure Key Vault](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Managing_Secrets_with_Azure_Key_Vault.md)
   
 </details>  
 
