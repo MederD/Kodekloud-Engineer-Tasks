@@ -63,7 +63,8 @@
 [AZURE - Running Containers on Azure Virtual Machines](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Running_Containers_on_Azure_Virtual_Machines.md)  
 [AZURE - Deploying a Static Website Using Containers on Azure](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Deploying_a_Static_Website_Using_Containers_on_Azure.md)  
 [AZURE - Managing Secrets with Azure Key Vault](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Managing_Secrets_with_Azure_Key_Vault.md)  
-[AZURE - Working with Azure Table Storage](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Working_with_Azure_Table_Storage.md)
+[AZURE - Working with Azure Table Storage](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Working_with_Azure_Table_Storage.md)  
+[AZURE - Backup and Delete Azure Storage Blob Container](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Azure/Backup_and_Delete_Azure_Storage_Blob_Container.md)
   
 </details>  
 
